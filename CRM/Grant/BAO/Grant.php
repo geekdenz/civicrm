@@ -242,7 +242,7 @@ class CRM_Grant_BAO_Grant extends CRM_Grant_DAO_Grant
     }
 
     /**
-        * function to create the event
+        * function to create grant
         *
         * @param array $params reference array contains the values submitted by the form
         * @param array $ids    reference array contains the id
